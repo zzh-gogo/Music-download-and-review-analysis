@@ -1,0 +1,61 @@
+api https://music.163.com/weapi/song/enhance/player/url/v1?csrf_token=
+
+cookie: _ntes_nnid=b1be6efc5614956630bf5ed5642f8443,1656898226516; _ntes_nuid=b1be6efc5614956630bf5ed5642f8443; NMTID=00OuNFsFBqHqJTZUEwOr7yNABpcHtUAAAGBxtSMdA; WNMCID=felxla.1656898226841.01.0; WEVNSM=1.0.0; WM_TID=pLEJcCm1SKRAFVUQQBKBFuAsp2TDRB%2Bg; __snaker__id=b3iJkch2ECAJTmkx; _9755xjdesxxd_=32; YD00000558929251%3AWM_NI=Rj8wUGR1OPpeGJsszERQENU6EeTl02wiHpVwBCwggrM%2B%2Be%2FcecTuTE%2FuVwoeuJox9R2rKiNyf8EQQ5D7%2FEXdpWdBzHWr8yrw2i03cBQwuzfo4m%2Fo88HEb7MX8iLv5un3UEc%3D; YD00000558929251%3AWM_NIKE=9ca17ae2e6ffcda170e2e6eeace24e8df081a8e96198928bb7c14a938e9ab0d15eb69abeccd43994eb9c87ce2af0fea7c3b92a92b6f898d84d92ef81b1f36f8596bd94f94f928f8bafd83e87bb9c8db33ab5b78891d57d829db988e67a8ff5e586ae69a7bd9c96d74fedab9a98ee6fb796a199bc5af2ae858acd73a6e88bb2d43f88e9e1a6db70b489aca3f94495aef89af17df2b700d4e24a93a9bb9be565f8b3e190bb348c9baed8d054fcb78497b87faeed9ba6e237e2a3; YD00000558929251%3AWM_TID=YQzVVV9d3gZBRBUEEVbAQ%2FU%2FrEnOpGLK; gdxidpyhxdE=RuvGyybVJnShNBI23PWtyLyssWyUhftqk8eipwwn%2FaqQcNmAQYmSUgihzR7OdjdTC7r3iDNUEAjhg%5CiINHeOVhlfTYIRqeBWtDSAsalCGdpk44es7D8pQx2vIl8AnALiEigfjQNXSE1a%2Bz8fit%2Fh8U19%5CN6b%5CB1V5R39jJAO1saW3pzm%3A1656918817919; _iuqxldmzr_=32; WM_NI=dTiULI43hp2y8YQE6nqHw2TiS26xHwWrPA8oZcORkPHFnurdId84um1C53zwHiTEXimJw3G7zjY3%2FC2vpkhUjZZXQC3Vf1R8Bsu4R%2B%2Fp3E%2F4Yckt4YnlvlIpn%2FecllJ6TG0%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6ee95e75af89bb7d8f741b1e78ab6c14b978e8bacc84bf5bd87b2f839b7bdfc8bb22af0fea7c3b92aa88ca7b6cf43f8eda891b173fc879fa6b566b398b9d3d76391eefa99cb7d95aea0a2bb659abd81b3ea5c8c9aa296f1708bbcf8d5f867f39dfbd4f97d8cb79ca6db63af96b9d4c63dbab697d4ae49f2aac08ceb5faa8696b9d449f18aaad2d13482adbbd5d121edb0fda6ae409bbda595b753aeb4ba8dcc7caef1ab84ef688aea9ca8b337e2a3; playerid=81899584; JSESSIONID-WYYY=Zax0JQS7NwfK4U7rVwheuu7xUxx6KoV%2FE60ueTmtP%2B%5CtJEdIvN6yI0OBEjQh2EOjeiPCv0A4Nf%2Fa9ro0wUNOqDBjUPnOhR%5CIZyyxcbzAKyO%2BqlTldhNm832OgTARAXUCboP5%2BN%2FSNSHad%2F%2BPWCqruU7W4dHgbrMJATOSiH%2Fo9yotvYBN%3A1657091192945
+cookie: _ntes_nnid=b1be6efc5614956630bf5ed5642f8443,1656898226516; _ntes_nuid=b1be6efc5614956630bf5ed5642f8443; NMTID=00OuNFsFBqHqJTZUEwOr7yNABpcHtUAAAGBxtSMdA; WNMCID=felxla.1656898226841.01.0; WEVNSM=1.0.0; WM_TID=pLEJcCm1SKRAFVUQQBKBFuAsp2TDRB%2Bg; __snaker__id=b3iJkch2ECAJTmkx; _9755xjdesxxd_=32; YD00000558929251%3AWM_NI=Rj8wUGR1OPpeGJsszERQENU6EeTl02wiHpVwBCwggrM%2B%2Be%2FcecTuTE%2FuVwoeuJox9R2rKiNyf8EQQ5D7%2FEXdpWdBzHWr8yrw2i03cBQwuzfo4m%2Fo88HEb7MX8iLv5un3UEc%3D; YD00000558929251%3AWM_NIKE=9ca17ae2e6ffcda170e2e6eeace24e8df081a8e96198928bb7c14a938e9ab0d15eb69abeccd43994eb9c87ce2af0fea7c3b92a92b6f898d84d92ef81b1f36f8596bd94f94f928f8bafd83e87bb9c8db33ab5b78891d57d829db988e67a8ff5e586ae69a7bd9c96d74fedab9a98ee6fb796a199bc5af2ae858acd73a6e88bb2d43f88e9e1a6db70b489aca3f94495aef89af17df2b700d4e24a93a9bb9be565f8b3e190bb348c9baed8d054fcb78497b87faeed9ba6e237e2a3; YD00000558929251%3AWM_TID=YQzVVV9d3gZBRBUEEVbAQ%2FU%2FrEnOpGLK; gdxidpyhxdE=RuvGyybVJnShNBI23PWtyLyssWyUhftqk8eipwwn%2FaqQcNmAQYmSUgihzR7OdjdTC7r3iDNUEAjhg%5CiINHeOVhlfTYIRqeBWtDSAsalCGdpk44es7D8pQx2vIl8AnALiEigfjQNXSE1a%2Bz8fit%2Fh8U19%5CN6b%5CB1V5R39jJAO1saW3pzm%3A1656918817919; _iuqxldmzr_=32; WM_NI=dTiULI43hp2y8YQE6nqHw2TiS26xHwWrPA8oZcORkPHFnurdId84um1C53zwHiTEXimJw3G7zjY3%2FC2vpkhUjZZXQC3Vf1R8Bsu4R%2B%2Fp3E%2F4Yckt4YnlvlIpn%2FecllJ6TG0%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6ee95e75af89bb7d8f741b1e78ab6c14b978e8bacc84bf5bd87b2f839b7bdfc8bb22af0fea7c3b92aa88ca7b6cf43f8eda891b173fc879fa6b566b398b9d3d76391eefa99cb7d95aea0a2bb659abd81b3ea5c8c9aa296f1708bbcf8d5f867f39dfbd4f97d8cb79ca6db63af96b9d4c63dbab697d4ae49f2aac08ceb5faa8696b9d449f18aaad2d13482adbbd5d121edb0fda6ae409bbda595b753aeb4ba8dcc7caef1ab84ef688aea9ca8b337e2a3; playerid=81899584; JSESSIONID-WYYY=Zax0JQS7NwfK4U7rVwheuu7xUxx6KoV%2FE60ueTmtP%2B%5CtJEdIvN6yI0OBEjQh2EOjeiPCv0A4Nf%2Fa9ro0wUNOqDBjUPnOhR%5CIZyyxcbzAKyO%2BqlTldhNm832OgTARAXUCboP5%2BN%2FSNSHad%2F%2BPWCqruU7W4dHgbrMJATOSiH%2Fo9yotvYBN%3A1657091192945
+
+params: dqXFf4Pm8I1ETCYgCtXtwYryZVBg2FN264ZlyfuTAo6zKWQW5BnHYVVYqzNY3pXOBr2DZaTkG3WjY2cq88eaEo5MYaxGsTyji13lZHptnuUhocxZZVhsQLBSmTO1Wc+unWkVlKE74jlu0Zm0nIoCWg==
+encSecKey: d0748e5a53244ea26ab68255d3c6826eb661d9fdc956f6388be1ced53aa2db99c3f60021f771abe2cfd7137022a38c52b0476475726c77212ebc73964e33d3a31dace5c3642b22eb00e870560c5f270abd8b7b936bc21c47e3527a2046e6b712bf7c993d7053a791862c125f618e24fc98c1157f71716ef26951631d393497ec
+
+params: Ysyr/EZBm4yGd1Vk4ul35v30/p8DPKFRYX7g3A0g0DP1jJ5EOZVMTlx21BSQK9E0oWDT40jyY8ul7LbwbQ3iyspc6e7SLe2PSM+2yqWczpkYm2xeZmZ+bNbUMyKV1DasLqeQYzfjnvtxLmY9/pDd6Q==
+encSecKey: 9a59c18481cf56cd70dcaf7b3f67b12a0b852d6505d0d211e7d61d36e3d48ce94a02f8d5089330a6d23c6d1e949cdcf1c6c1785261722b591cbc14bd61b1a2144be8d5a005f368b1a6040d4e14b8d5d40b5a2d336e5950d3026874dd7dcb589b3bc2458c51b25c244c6277c52dbca3e4450c7dee36e85b6f3c16b2c72ed8b01e
+
+输入：
+"{"logs":"[{\"action\":\"mobile_monitor\",\"json\":{\"meta._ver\":2,\"meta._dataName\":\"pip_lyric_monitor\",\"action\":\"render\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36\",\"chromeVersion\":98,\"resourceId\":521417948,\"resourceType\":\"song\"}}]","csrf_token":""}"
+"010001"
+"00e0b509f6259df8642dbc35662901477df22677ec152b5ff68ace615bb7b725152b3ab17a876aea8a5aa76d2e417629ec4ee341f56135fccf695280104e0312ecbda92557c93870114af6c9d05c4f7f0c3685b7a46bee255932575cce10b424d813cfe4875d3e82047b97ddef52741d546b8e289dc6935b3ece0462db0a22b8e7"
+"0CoJUm6Qyw8W8jud"
+
+
+"{"logs":"[{\"action\":\"mobile_monitor\",\"json\":{\"meta._ver\":2,\"meta._dataName\":\"pip_lyric_monitor\",\"action\":\"render\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36\",\"chromeVersion\":98,\"resourceId\":459957117,\"resourceType\":\"song\"}}]","csrf_token":""}"
+"010001"
+"00e0b509f6259df8642dbc35662901477df22677ec152b5ff68ace615bb7b725152b3ab17a876aea8a5aa76d2e417629ec4ee341f56135fccf695280104e0312ecbda92557c93870114af6c9d05c4f7f0c3685b7a46bee255932575cce10b424d813cfe4875d3e82047b97ddef52741d546b8e289dc6935b3ece0462db0a22b8e7"
+"0CoJUm6Qyw8W8jud"
+
+a(数值) 数值 16
+d<16
+循环16次
+random() -> 0-1小数
+0-1 * 62 -> 0-62 -> 0-61整数
+返回 长度16随机字符串
+
+
+
+
+
+d()
+i -> 16位随机字符串
+
+
+return h.encText = b(d, g),
+        h.encText = b(h.encText, i),
+        h.encSecKey = c(i, e, f),
+        h
+
+h.encText = b(d, g),
+        h.encText = b(h.encText, i),
+        h.encSecKey = c(i, e, f),
+return h
+
+12247
+
+13308
+
+找寻正确的加密函数的输入
+音乐地址输入  "{"ids":"[573476225]","level":"standard","encodeType":"aac","csrf_token":""}"
+音乐地址接口 https://music.163.com/weapi/song/enhance/player/url/v1?csrf_token=
+
+评论的输入 
+
+"{"rid:"R_SO_4_1824045033","threadId":"R_SO_4_1824045033","pageNo":"3","pageSize":"20","cursor":"1657174003353","offset":"0","orderType":"1","csrf_token":""}"
+"{"rid":"R_SO_4_1824045033","threadId":"R_SO_4_1824045033","pageNo":"4","pageSize":"20","cursor":"1657173467035","offset":"0","orderType":"1","csrf_token":""}"
+评论的接口 https://music.163.com/weapi/comment/resource/comments/get?csrf_token=

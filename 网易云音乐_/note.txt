@@ -1,0 +1,77 @@
+歌单：
+由唯一ID进行区别
+
+歌曲文件
+https://music.163.com/weapi/song/enhance/player/url/v1?csrf_token=
+
+:authority: music.163.com
+:method: POST
+:path: /weapi/song/enhance/player/url/v1?csrf_token=
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+content-length: 436
+content-type: application/x-www-form-urlencoded
+cookie: _ntes_nnid=b1be6efc5614956630bf5ed5642f8443,1656898226516; _ntes_nuid=b1be6efc5614956630bf5ed5642f8443; NMTID=00OuNFsFBqHqJTZUEwOr7yNABpcHtUAAAGBxtSMdA; WNMCID=felxla.1656898226841.01.0; WEVNSM=1.0.0; WM_TID=pLEJcCm1SKRAFVUQQBKBFuAsp2TDRB%2Bg; __snaker__id=b3iJkch2ECAJTmkx; _9755xjdesxxd_=32; YD00000558929251%3AWM_NI=Rj8wUGR1OPpeGJsszERQENU6EeTl02wiHpVwBCwggrM%2B%2Be%2FcecTuTE%2FuVwoeuJox9R2rKiNyf8EQQ5D7%2FEXdpWdBzHWr8yrw2i03cBQwuzfo4m%2Fo88HEb7MX8iLv5un3UEc%3D; YD00000558929251%3AWM_NIKE=9ca17ae2e6ffcda170e2e6eeace24e8df081a8e96198928bb7c14a938e9ab0d15eb69abeccd43994eb9c87ce2af0fea7c3b92a92b6f898d84d92ef81b1f36f8596bd94f94f928f8bafd83e87bb9c8db33ab5b78891d57d829db988e67a8ff5e586ae69a7bd9c96d74fedab9a98ee6fb796a199bc5af2ae858acd73a6e88bb2d43f88e9e1a6db70b489aca3f94495aef89af17df2b700d4e24a93a9bb9be565f8b3e190bb348c9baed8d054fcb78497b87faeed9ba6e237e2a3; YD00000558929251%3AWM_TID=YQzVVV9d3gZBRBUEEVbAQ%2FU%2FrEnOpGLK; gdxidpyhxdE=RuvGyybVJnShNBI23PWtyLyssWyUhftqk8eipwwn%2FaqQcNmAQYmSUgihzR7OdjdTC7r3iDNUEAjhg%5CiINHeOVhlfTYIRqeBWtDSAsalCGdpk44es7D8pQx2vIl8AnALiEigfjQNXSE1a%2Bz8fit%2Fh8U19%5CN6b%5CB1V5R39jJAO1saW3pzm%3A1656918817919; WM_NI=dTiULI43hp2y8YQE6nqHw2TiS26xHwWrPA8oZcORkPHFnurdId84um1C53zwHiTEXimJw3G7zjY3%2FC2vpkhUjZZXQC3Vf1R8Bsu4R%2B%2Fp3E%2F4Yckt4YnlvlIpn%2FecllJ6TG0%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6ee95e75af89bb7d8f741b1e78ab6c14b978e8bacc84bf5bd87b2f839b7bdfc8bb22af0fea7c3b92aa88ca7b6cf43f8eda891b173fc879fa6b566b398b9d3d76391eefa99cb7d95aea0a2bb659abd81b3ea5c8c9aa296f1708bbcf8d5f867f39dfbd4f97d8cb79ca6db63af96b9d4c63dbab697d4ae49f2aac08ceb5faa8696b9d449f18aaad2d13482adbbd5d121edb0fda6ae409bbda595b753aeb4ba8dcc7caef1ab84ef688aea9ca8b337e2a3; _iuqxldmzr_=32; playerid=12097052; JSESSIONID-WYYY=Sjsk9GPH2d1HMucs%2BsCO1edcPWm0FS1zuFp%2F0VaKebUtExUWGi%2F1VtUFMf%5CVPuatrUxD%2BbhulOTTVeIHe%5CZb%2B6chc1J%5C7cTTb3ZxOn1WJDXfZ9yHghZ%2FGgb3OD81P7enbYdgsrkoOvunBqpDyo4Ux0Qg%2FnCmsEp%2F%5CjME7mbC1ySDWPYK%3A1657158248290
+origin: https://music.163.com
+referer: https://music.163.com/
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36
+
+:authority: music.163.com
+:method: POST
+:path: /weapi/song/enhance/player/url/v1?csrf_token=
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+content-length: 432
+content-type: application/x-www-form-urlencoded
+cookie: _ntes_nnid=b1be6efc5614956630bf5ed5642f8443,1656898226516; _ntes_nuid=b1be6efc5614956630bf5ed5642f8443; NMTID=00OuNFsFBqHqJTZUEwOr7yNABpcHtUAAAGBxtSMdA; WNMCID=felxla.1656898226841.01.0; WEVNSM=1.0.0; WM_TID=pLEJcCm1SKRAFVUQQBKBFuAsp2TDRB%2Bg; __snaker__id=b3iJkch2ECAJTmkx; _9755xjdesxxd_=32; YD00000558929251%3AWM_NI=Rj8wUGR1OPpeGJsszERQENU6EeTl02wiHpVwBCwggrM%2B%2Be%2FcecTuTE%2FuVwoeuJox9R2rKiNyf8EQQ5D7%2FEXdpWdBzHWr8yrw2i03cBQwuzfo4m%2Fo88HEb7MX8iLv5un3UEc%3D; YD00000558929251%3AWM_NIKE=9ca17ae2e6ffcda170e2e6eeace24e8df081a8e96198928bb7c14a938e9ab0d15eb69abeccd43994eb9c87ce2af0fea7c3b92a92b6f898d84d92ef81b1f36f8596bd94f94f928f8bafd83e87bb9c8db33ab5b78891d57d829db988e67a8ff5e586ae69a7bd9c96d74fedab9a98ee6fb796a199bc5af2ae858acd73a6e88bb2d43f88e9e1a6db70b489aca3f94495aef89af17df2b700d4e24a93a9bb9be565f8b3e190bb348c9baed8d054fcb78497b87faeed9ba6e237e2a3; YD00000558929251%3AWM_TID=YQzVVV9d3gZBRBUEEVbAQ%2FU%2FrEnOpGLK; gdxidpyhxdE=RuvGyybVJnShNBI23PWtyLyssWyUhftqk8eipwwn%2FaqQcNmAQYmSUgihzR7OdjdTC7r3iDNUEAjhg%5CiINHeOVhlfTYIRqeBWtDSAsalCGdpk44es7D8pQx2vIl8AnALiEigfjQNXSE1a%2Bz8fit%2Fh8U19%5CN6b%5CB1V5R39jJAO1saW3pzm%3A1656918817919; WM_NI=dTiULI43hp2y8YQE6nqHw2TiS26xHwWrPA8oZcORkPHFnurdId84um1C53zwHiTEXimJw3G7zjY3%2FC2vpkhUjZZXQC3Vf1R8Bsu4R%2B%2Fp3E%2F4Yckt4YnlvlIpn%2FecllJ6TG0%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6ee95e75af89bb7d8f741b1e78ab6c14b978e8bacc84bf5bd87b2f839b7bdfc8bb22af0fea7c3b92aa88ca7b6cf43f8eda891b173fc879fa6b566b398b9d3d76391eefa99cb7d95aea0a2bb659abd81b3ea5c8c9aa296f1708bbcf8d5f867f39dfbd4f97d8cb79ca6db63af96b9d4c63dbab697d4ae49f2aac08ceb5faa8696b9d449f18aaad2d13482adbbd5d121edb0fda6ae409bbda595b753aeb4ba8dcc7caef1ab84ef688aea9ca8b337e2a3; _iuqxldmzr_=32; playerid=12097052; JSESSIONID-WYYY=Sjsk9GPH2d1HMucs%2BsCO1edcPWm0FS1zuFp%2F0VaKebUtExUWGi%2F1VtUFMf%5CVPuatrUxD%2BbhulOTTVeIHe%5CZb%2B6chc1J%5C7cTTb3ZxOn1WJDXfZ9yHghZ%2FGgb3OD81P7enbYdgsrkoOvunBqpDyo4Ux0Qg%2FnCmsEp%2F%5CjME7mbC1ySDWPYK%3A1657158248290
+origin: https://music.163.com
+referer: https://music.163.com/
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36
+
+
+params: 92ouH06Wo2A2b88Jm1/bcrVKF6qIMeNhJSU3LaXwL4fKnWa36CYXgCZ5XmN72aByTY2bYwNLubRgOSuYbu2EvuqC9f/sM8tkgwvfof9H1CsXuGd6D2wJV1T+9bUP8ylU8Gwix49araoQN35UhIw0cw==
+encSecKey: 566d141c7cd56fcbd7fb085b62b85093621fd02e9adbadb2fafb277ca54d764f71f513478a09a9bb1b601e934f458a2135923ea2fd01d8b26c38f8a4bf1182817aa3f503322db4a3e1e9f79894459657f9e0429ffb8ccd4474b6e7c7c3b898e649ba691b4bdedbfa4c22c3844f808481bccce019ea5e506ab6cb512a0044f65f
+
+params: jrWMisHuzLvNN2IA3gVoI9mxR9l0rmqdGhwmWlOwnnmkPbfDfHb7uJaPObljTZ13ebU5lreFxk4UVSOc3lW7NxJ7v1WCtdpJVTE1K0e/UZpP7SvhvPjLnGoe8eJniEswvnTyvSJSBb1hqwWvxqPoEg==
+encSecKey: ae44d27bcbc07d8c2dc59d6f73f2d8c206fe0761269da2669b62610d8ea7f0398f4e3a317ac520eaeff8325bbc9d0032b2af11477a49db77dab6c5ee96e609f32bb85dd69a906f421486675dcdcc3d434f43faa0df4d654726be0f3636c99a4015c59a0ed7c1f169270338122ffe5ef6006fed968d17d84391850fbc761943de
+
+core 13415 13298
+
+muisic
+
+加密函数是 window.asrsea() 四个参数
+
+
+{"logs":"[{\"action\":\"play\",\"json\":{\"id\":\"1922610626\",\"type\":\"song\",\"source\":\"list\",\"sourceid\":\"7440011920\"}}]","csrf_token":""}
+010001
+00e0b509f6259df8642dbc35662901477df22677ec152b5ff68ace615bb7b725152b3ab17a876aea8a5aa76d2e417629ec4ee341f56135fccf695280104e0312ecbda92557c93870114af6c9d05c4f7f0c3685b7a46bee255932575cce10b424d813cfe4875d3e82047b97ddef52741d546b8e289dc6935b3ece0462db0a22b8e7
+0CoJUm6Qyw8W8jud
+
+{"logs":"[{\"action\":\"play\",\"json\":{\"id\":\"1895328806\",\"type\":\"song\",\"source\":\"list\",\"sourceid\":\"7440011920\"}}]","csrf_token":""}
+010001
+00e0b509f6259df8642dbc35662901477df22677ec152b5ff68ace615bb7b725152b3ab17a876aea8a5aa76d2e417629ec4ee341f56135fccf695280104e0312ecbda92557c93870114af6c9d05c4f7f0c3685b7a46bee255932575cce10b424d813cfe4875d3e82047b97ddef52741d546b8e289dc6935b3ece0462db0a22b8e7
+0CoJUm6Qyw8W8jud
+
+12247
+12577
+12886
+12845
+12856
+
+13298
